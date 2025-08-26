@@ -1,4 +1,4 @@
-# Visual Pipeline Simulator — RISC-V 5-Stage (Simple)
+# Visual Pipeline Simulator — RISC-V 5-Stage
 
 **Run:** `python main.py`
 
